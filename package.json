@@ -1,0 +1,15 @@
+{
+  "name": "frases_random_edubedo",
+  "version": "1.0.1",
+  "description": "Este modulo solo trata de de que cuando llamas a la funcion fraseRandom() te devuelve una frase random",
+  "main": "src/frases.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Edubedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
