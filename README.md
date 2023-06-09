@@ -1,0 +1,1 @@
+Este modulo solo trata de de que cuando llamas a la funcion fraseRandom() te devuelve una frase random
